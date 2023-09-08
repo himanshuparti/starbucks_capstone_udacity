@@ -33,11 +33,7 @@ This project was written in Python using Anaconda's Jupyter Notebook. The releva
 ## 4. File Description<a name = "files"></a>
 ~~~~~~~
  starbucks_capstone_udacity
-
           - data
-                - disaster_message.csv
-                - disaster_categories.csv
-                -
                 - Profile.json
                 - Portfolio.json
                 - transcript.json
