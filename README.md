@@ -43,3 +43,4 @@ This project was written in Python using Anaconda's Jupyter Notebook. The releva
  
 ## 5. Acknowledgement<a name = "ack"></a>
 I'd like to thank UDACITY for providing me the opportunity to learn and implement the learnings throughout the project. With that - play around with the code as much as you like!
+There is a blog post on the same which you can find [here](https://medium.com/@himanshuparti/analysing-effectiveness-of-starbucks-offers-61d2d2613c0a)
